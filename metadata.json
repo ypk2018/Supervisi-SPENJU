@@ -1,0 +1,6 @@
+{
+  "name": "Supervisi Manajerial & PBM - SMP Negeri 7 Sentani",
+  "description": "Sistem Informasi Supervisi Manajerial dan Proses Belajar Mengajar (PBM/Kelas) di SMP Negeri 7 Sentani untuk Pengawas, Kepala Sekolah, dan Guru Senior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
